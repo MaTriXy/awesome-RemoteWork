@@ -84,6 +84,7 @@ Awesome Remote Work
 - [https://4dayweek.io/](https://4dayweek.io/) Remote Software Jobs with a 4 day work week.
 - [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
 - [https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) Remote Jobs for UI & UX Designers
+- [https://realjobsfromanywhere.com/](https://realjobsfromanywhere.com/) Curated remote job board with verified remote-first positions across tech and non-tech roles.
 - [https://www.realworkfromanywhere.com/](https://www.realworkfromanywhere.com/) a site for fully location independent jobs. 100% work from anywhere.
 - [https://www.onstrider.com/](https://www.onstrider.com/) Get a remote job with a top international company.
 - [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
